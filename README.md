@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jeronimo 👋</h1>
-<h3 align="center">I am a full-stack MERN developer with a strong passion for front-end development from Argentina</h3>
+<h3>I am a full-stack MERN developer with a strong passion for front-end development from Argentina</h3>
 
 🔭 I’m currently working on personal projects
 
