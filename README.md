@@ -22,17 +22,24 @@
 <div align= "center">
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb,nextjs,tailwind)](https://skillicons.dev)
+
 </div>
 <div align= "center">
   
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github,postman,vite,vscode)](https://skillicons.dev)
+
 </div>
 <div align= "center">
   
 [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+
 </div>
 
 ------
 
+<div align= "center">
+  
 [JeronimoCardu](https://github.com/JeronimoCardu)
+
+</div>
 
