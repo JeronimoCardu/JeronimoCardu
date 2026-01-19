@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Jeronimo 👋</h1>
-<h3>I am a full-stack MERN developer with a strong passion for front-end development from Argentina</h3>
+<h1 align="center">Hi, I'm Jeronimo from Argentina👋</h1>
+<h3>I am a self-taught developer with a strong focus on frontend technologies and a growing interest in full-stack development</h3>
 
-🔭 I’m currently working on personal projects
+🔭 I enjoy turning ideas into functional and intuitive interfaces, paying close attention to usability, performance and clean code
 
-👯 I’m looking to collaborate on frontend or full stack projects
+🎯 My goal is to grow as a developer by working on real-world projects, collaborating with others and continuously improving both my technical and problem solving skills.
 
 📫 How to reach me: jeronimocardu@gmail.com
 
-⚡ What I like to do: I enjoy coding, practicing martial arts and watching TV series.
+⚡ I enjoy coding, training in martial arts, and watching TV series in my free time.
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
