@@ -7,8 +7,6 @@
 
 📫 How to reach me: jeronimocardu@gmail.com
 
-⚡ I enjoy coding, training in martial arts, and watching TV series in my free time.
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
